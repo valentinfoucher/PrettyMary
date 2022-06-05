@@ -32,7 +32,7 @@ const Footer = () => {
             })}
           </ul>
         </FooterMenuStyles>
-        {allProduct.length > 0 && (
+        {/* {allProduct.length > 0 && (
           <FooterMenuStyles className="footer__menu products__menu">
             <h5>
               <Link to="/products">
@@ -54,9 +54,9 @@ const Footer = () => {
               })}
             </ul>
           </FooterMenuStyles>
-        )}
+        )} */}
 
-        {siteMeta.twitterUsername ||
+        {/* {siteMeta.twitterUsername ||
         siteMeta.facebookUsername ||
         siteMeta.instagramUsername ||
         siteMeta.linkedinUsername ? (
@@ -113,9 +113,9 @@ const Footer = () => {
           </FooterMenuStyles>
         ) : (
           ""
-        )}
+        )} */}
       </div>
-      <CopyrightStyles>
+      {/* <CopyrightStyles>
         <div className="container container__tight">
           <p>
             Designed & developed by{" "}
@@ -129,7 +129,7 @@ const Footer = () => {
             <span>.</span>
           </p>
         </div>
-      </CopyrightStyles>
+      </CopyrightStyles> */}
     </FooterStyles>
   )
 }
