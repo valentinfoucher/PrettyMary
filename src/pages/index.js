@@ -50,6 +50,35 @@ const Index = () => {
           //linkText="View Products"
 
         />
+        <BasicTextModule
+          content="Pretty-Mary s’est depuis des années endormi dans le vieux port de Menton.
+          Son futur proche va consister en une rénovation totale destinée à lui rendre un lustre
+          proche de ce qui était le sien en 1947.
+          Nous espérons pouvoir naviguer à nouveau dans des conditions de sécurité satisfaisantes
+          dès l’automne 2022.
+          Nous aimerions participer aux régates classiques en méditerranée au cours de la saison
+          2023.
+          Nous disposons pour ce faire de l’exemple de OHO, sistership de Pretty Mary construit au
+          Canada en 1948, qui après avoir été rénové dans les années 2000 en méditerranée, navigue
+          dorénavant à Brouwershaven aux Pays-Bas. OHO est en excellent état de conservation.
+          Marc et Karin leurs propriétaires nous ont gentiment invités à leur bord pour mesurer,
+          photographier, dessiner, en bref pour documenter notre dossier de travaux à effectuer.
+          Pretty Mary en quelques mots et chiffres :
+          Longueur de coque hors tout : 12 mètres
+          Longueur à la flottaison : 9,10 mètres
+          Maître bau : 2,46 mètres
+          Tirant d’eau : 1,90 mètres
+          Quille : Chêne
+          Nervures : Acacia
+          Bordées : Teck
+          Pont : Teck sur barreaux
+          Mât (18 mètres) et bôme : Spruce"
+        />
+        <BasicTextModule
+          content=" 
+          Si vous disposez de photos, plans, documents, informations ou anecdotes concernant Pretty
+Mary (ou Lotte II), nous vous saurions infiniment gré de nous contacter.valentinfoucher93+prettymary@gmail.com"
+        />
         {/* <PerksModule>
           <Perk title="The Title" content="The content" />
         </PerksModule> */}

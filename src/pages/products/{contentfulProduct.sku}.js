@@ -3,6 +3,8 @@ import { graphql } from "gatsby"
 import ProductTemplate from "../../templates/product-template"
 import Seo from "../../components/SEO"
 import Layout from "../../components/Layout"
+import RichText from "../../components/RichText"
+
 
 const Product = ({ data: { contentfulProduct } }) => {
   return (
